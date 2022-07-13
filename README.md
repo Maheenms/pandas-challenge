@@ -120,7 +120,7 @@ We will generate a DataFrame that breaks down school performance based on type o
 ## Conclusion/Analysis: 
 
 
-I imported Numpy and pandas libraries into Jupyter notebook and then loaded our csv files. I then merged the two csv files given to us to make one complete set of dataframe. I calculated the metrics required for the District summary using different functions (like mean, sum and count) learned in class and displayed it in a dataframe. I applied similar and some other functions to find the metrics of the respective summaries and tables asked in the assignment. I conclude my analysis using three of the tables from the assignment. I've taken screenshots of my results and the first table of results is as follows:  
+I imported pandas library into Jupyter notebook and then loaded our csv files. I then merged the two csv files given to us to make one complete set of dataframe. I calculated the metrics required for the District summary using different functions (like mean, sum and count) learned in class and displayed it in a dataframe. I applied similar and some other functions to find the metrics of the respective summaries and tables asked in the assignment. I conclude my analysis using three of the tables from the assignment. I've taken screenshots of my results and the first table of results is as follows:  
 
 
 ![Image](PyCitySchools/ImagesPycity/Scores_by_School_Type.png) 
